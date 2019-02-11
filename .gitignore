@@ -1,0 +1,20 @@
+# [mac]
+.DS_Store
+
+conf
+conf*
+test
+*test
+test*
+
+# [server]
+*.sh
+*.log
+nohup.out
+
+utils
+*_bac/
+__pycache__/
+.idea
+.pytest_cache
+.vscode
