@@ -1,6 +1,3 @@
-[TOC]
-
-
 ### 高等代数研究对象
 ##### [001高等代数研究对象（一）](https://www.bilibili.com/video/av39523603/?p=1)
 ##### [002高等代数研究对象（二）](https://www.bilibili.com/video/av39523603/?p=2)
